@@ -1,5 +1,23 @@
 {
   "dependencies": {
     "readline-sync": "^1.4.10"
-  }
+  },
+  "name": "js-react-ada-course",
+  "version": "1.0.0",
+  "description": "Curso ADA de front-end, JavaScript e React",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oEduMarques/JS-react-ADA-Course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oEduMarques/JS-react-ADA-Course/issues"
+  },
+  "homepage": "https://github.com/oEduMarques/JS-react-ADA-Course#readme"
 }
